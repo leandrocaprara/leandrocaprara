@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @leandrocaprara
 - 👀 I’m interested in Python/Django
-- 🌱 I’m currently learning React.js and Python
+- 🌱 I’m currently learning React.js, Vue.js and Python
